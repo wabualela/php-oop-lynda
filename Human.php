@@ -1,4 +1,7 @@
 <?php
+echo "<title>PHP OOP Sandbox </title>";
+const BR = "<br>";
+
 class Human
 {
     var $first_name;
@@ -16,4 +19,3 @@ class Human
         return "";
     }
 }
-
